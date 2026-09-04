@@ -13,7 +13,7 @@ In this internship we cover Python basics, automation, and practical projects.
 
 ## 🛠️ Tools & Technologies
 - Python 3.x
-- VS Code / Google Colab
+- VS Code 
 - Git & GitHub
 
 ## 🎯 Learning Goals
